@@ -1,10 +1,10 @@
 # MultiShiftRegister
 
-MultiShiftRegister (MSR) is an Arduino library for easily interfacing with multiple daisy-chained SIPO (Serial In, Parallel Out) latching shift registers (such as the 74HC595) to greatly exapand the number of binary outputs available to the developer.
+MultiShiftRegister (MSR) is an Arduino library for easily interfacing with multiple daisy-chained SIPO (Serial In, Parallel Out) latching shift registers (such as the 74HC595) to greatly expand the number of binary outputs available to the developer.
 
 ## Requirements
 
-MSR expects the shift registers to use a CLOCK pin, and LATCH pin and a DATA pin to control input.
+MSR expects the shift registers to use a CLOCK pin, a LATCH pin, and a DATA pin to control input.
 
 ## Installation
 
