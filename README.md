@@ -47,7 +47,7 @@ void loop() {
 
   # Turn pin 5 back off.
   msr.clear(5);
-  msr.shift;
+  msr.shift();
 
   delay(1000);
 
